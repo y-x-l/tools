@@ -1,2 +1,2 @@
 # tools
-clone others plugin
+test and learn git 
